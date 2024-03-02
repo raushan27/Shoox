@@ -26,8 +26,8 @@ Shoox is an exciting cube game developed in Unity where players navigate through
 - Reach the end of Level.
 
 ## Screenshots
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
+![Screenshot 1](Screenshots/screenshot1.png)
+![Screenshot 2](Screenshots/screenshot2.png)
 
 ## Credits
 - Developed by [Raushan]
