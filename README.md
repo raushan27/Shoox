@@ -30,7 +30,7 @@ Shoox is an exciting cube game developed in Unity where players navigate through
 ![Screenshot 2](Screenshots/screenshot2.png)
 
 ## Credits
-- Developed by [Raushan]
+- Developed by [**Raushan**]
 
 ## License
 This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code for personal and educational purposes. Commercial use requires attribution.
